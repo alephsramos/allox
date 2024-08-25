@@ -25,14 +25,14 @@
     position: relative;
     z-index: -1;
     bottom: 90%;
-    left: -1%;
+    left: 8%;
     z-index: 2;
 }
 
 .cta2__img__relative img{
     position: absolute;
     top: 0%;
-    left: 0;
+    left: 0%;
     width: 50vw;
     height: 50vh;
     transform: rotate(-20deg);
